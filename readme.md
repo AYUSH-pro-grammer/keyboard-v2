@@ -105,27 +105,31 @@ Fit keycaps to the switches according to the keyboard layout.
 
 ## Bill of Materials (BOM)
 
-| Component | Quantity | Price | Link |
+| Component | Quantity | Price (USD) | Link |
 |---|---:|---:|---|
-| Raspberry Pi Pico | 1 | ₹424.80 | [Buy](https://www.dnatechindia.com/raspberry-pi-rpi-pico-buy-india.html) |
-| 100nF Ceramic Disc Capacitor | 3 | ₹0.96 | [Buy](https://store.electrobot.co.in/product/104-pf) |
-| 10µF 50V Ceramic Capacitor | 1 | ₹136.64 | [Buy](https://www.digikey.in/en/products/detail/tdk/FG26X5R1H106KRT06/5812039) |
-| 1N4148 DO-35 Diodes | 84 (buy 100) | ₹70.00 | [Buy](https://tufonlinestore.com/product/1n4148-diode-10-pieces-pack/) |
-| SS34 SMA Schottky Diodes | 2 | ₹3.00 | [Buy](https://bafnadevices.com/product/ss34-sma-40v-3a-schottky-diode-smd-package-do-214ac/) |
-| 1×14 2.54mm Male Pin Header | 1 | ₹30.68 | [Buy](https://evelta.com/1x14-pin-2-54mm-pitch-male-square-pin/) |
-| JST PH 2-Pin Right Angle Connector | 1 | ₹16.40 | [Buy](https://www.lioncircuits.com/parts/S2B-PH-K-S) |
-| 4-Pin Boost Converter Header | 1 pack (5 pcs) | ₹69.00 | [Buy](https://robu.in/product/4-pin-female-11mm-tall-stackable-header-connector-for-arduino-5pcs/) |
-| USB-C Receptacle GCT USB4105 | 1 | ₹97.45 | [Buy](https://www.lioncircuits.com/parts/usb4105-gf-a) |
-| 5.1kΩ Resistors 1/4W | 2 (buy pack of 5) | ₹2.36 | [Buy](https://www.electronicscomp.com/5.1k-ohm-resistance) |
-| 10kΩ Resistors 1/4W | 2 (buy pack of 10) | ₹15.00 | [Buy](https://www.theengineerstore.in/products/10k-ohm-resistor-1-4-watt-pack-of-10pcs) |
-| 4.7kΩ Resistors 1/4W | 2 (buy pack of 5) | ₹2.36 | [Buy](https://www.electronicscomp.com/4.7k-ohm-resistance-1-4-watt) |
-| Kailh Choc Hotswap Sockets | 85 (buy pack of 100) | ₹4,612.44 | [Buy](https://nilgiristores.in/product/100pieces-kailh-hot-swap-socket-for-low-profile-1350-chocolate-switches/) |
-| Mechanical Keyboard Switches | 1 pack (100 pcs) | ₹1,000 | [Buy](https://www.amazon.in/NIHUIFDPY-Mechanical-Replacement-Dustproof-Keyswitches/dp/B0H4H4HHZW/) |
-| ZORBES 130-Key Keycap Set | 1 pack | ₹1,000 | [Buy](https://www.amazon.in/ZORBES-130-Key-Topographic-Mechanical-Keyboard/dp/B0GZMBPHYB/) |
-| MCP23017 DIP-28 I/O Expander | 1 | ₹265.00 | [Buy](https://www.chipmart.in/product/mcp23017-16-bit-input-output-expander-with-i2c-interface-ic-dip-28-package/) |
-| Seeed XIAO nRF52840 | 1 | ₹1,149.00 | [Buy](https://findmychips.com/part/seeed-studio-xiao-nrf52840-ble-025947) |
-| PCB Fabrication (JLCPCB) | 1 | US$30 | [JLCPCB](https://jlcpcb.com) |
+| Raspberry Pi Pico | 1 | $4.48 | [Buy](https://www.dnatechindia.com/raspberry-pi-rpi-pico-buy-india.html) |
+| 100nF Ceramic Disc Capacitor | 3 | $0.01 | [Buy](https://store.electrobot.co.in/product/104-pf) |
+| 10µF 50V Ceramic Capacitor | 1 | $1.44 | [Buy](https://www.digikey.in/en/products/detail/tdk/FG26X5R1H106KRT06/5812039) |
+| 1N4148 DO-35 Diodes | 84 (buy 100) | $0.74 | [Buy](https://tufonlinestore.com/product/1n4148-diode-10-pieces-pack/) |
+| SS34 SMA Schottky Diodes | 2 | $0.03 | [Buy](https://bafnadevices.com/product/ss34-sma-40v-3a-schottky-diode-smd-package-do-214ac/) |
+| 1×14 2.54mm Male Pin Header | 1 | $0.32 | [Buy](https://evelta.com/1x14-pin-2-54mm-pitch-male-square-pin/) |
+| JST PH 2-Pin Right Angle Connector | 1 | $0.17 | [Buy](https://www.lioncircuits.com/parts/S2B-PH-K-S) |
+| 4-Pin Boost Converter Header | 1 pack (5 pcs) | $0.73 | [Buy](https://robu.in/product/4-pin-female-11mm-tall-stackable-header-connector-for-arduino-5pcs/) |
+| USB-C Receptacle GCT USB4105 | 1 | $1.03 | [Buy](https://www.lioncircuits.com/parts/usb4105-gf-a) |
+| 5.1kΩ Resistors 1/4W | 2 (buy pack of 5) | $0.02 | [Buy](https://www.electronicscomp.com/5.1k-ohm-resistance) |
+| 10kΩ Resistors 1/4W | 2 (buy pack of 10) | $0.16 | [Buy](https://www.theengineerstore.in/products/10k-ohm-resistor-1-4-watt-pack-of-10pcs) |
+| 4.7kΩ Resistors 1/4W | 2 (buy pack of 5) | $0.02 | [Buy](https://www.electronicscomp.com/4.7k-ohm-resistance-1-4-watt) |
+| Kailh Choc Hotswap Sockets | 85 (buy pack of 100) | $48.60 | [Buy](https://nilgiristores.in/product/100pieces-kailh-hot-swap-socket-for-low-profile-1350-chocolate-switches/) |
+| Mechanical Keyboard Switches | 1 pack (100 pcs) | $10.54 | [Buy](https://www.amazon.in/NIHUIFDPY-Mechanical-Replacement-Dustproof-Keyswitches/dp/B0H4H4HHZW/) |
+| ZORBES 130-Key Keycap Set | 1 pack | $10.54 | [Buy](https://www.amazon.in/ZORBES-130-Key-Topographic-Mechanical-Keyboard/dp/B0GZMBPHYB/) |
+| MCP23017 DIP-28 I/O Expander | 1 | $2.79 | [Buy](https://www.chipmart.in/product/mcp23017-16-bit-input-output-expander-with-i2c-interface-ic-dip-28-package/) |
+| Seeed XIAO nRF52840 | 1 | $12.11 | [Buy](https://findmychips.com/part/seeed-studio-xiao-nrf52840-ble-025947) |
+| PCB Fabrication (JLCPCB) | 1 | $30.00 | [JLCPCB](https://jlcpcb.com) |
 
 ### Total Cost
 
-**₹8,895.09 + US$30**
+**Components: $93.72**
+
+**PCB Fabrication: $30.00**
+
+**Grand Total: $123.72**
