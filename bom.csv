@@ -1,20 +1,20 @@
-Name,Quantity,Price,URL
-Raspberry Pi Pico,1,₹424.80,https://www.dnatechindia.com/raspberry-pi-rpi-pico-buy-india.html
-100nF Ceramic Disc Capacitor,3,₹0.96,https://store.electrobot.co.in/product/104-pf
-10uF 50V Ceramic Capacitor,1,₹136.64,https://www.digikey.in/en/products/detail/tdk/FG26X5R1H106KRT06/5812039
-1N4148 DO-35 Diodes,84 (buy 100),₹70.00,https://tufonlinestore.com/product/1n4148-diode-10-pieces-pack/
-SS34 SMA Schottky Diodes,2,₹3.00,https://bafnadevices.com/product/ss34-sma-40v-3a-schottky-diode-do-214ac/
-1x14 2.54mm Male Pin Header,1,₹30.68,https://evelta.com/1x14-pin-2-54mm-pitch-male-square-pin/
-JST PH 2-Pin Right Angle Connector,1,₹16.40,https://www.lioncircuits.com/parts/S2B-PH-K-S
-4-Pin Boost Converter Header,1 pack (5 pcs),₹69.00,https://robu.in/product/4-pin-female-11mm-tall-stackable-header-connector-for-arduino-5pcs/
-USB-C Receptacle GCT USB4105,1,₹97.45,https://www.lioncircuits.com/parts/usb4105-gf-a
-5.1k Resistors 1/4W,2 (buy pack of 5),₹2.36,https://www.electronicscomp.com/5.1k-ohm-resistance
-10k Resistors 1/4W,2 (buy pack of 10),₹15.00,https://www.theengineerstore.in/products/10k-ohm-resistor-1-4-watt-pack-of-10pcs
-4.7k Resistors 1/4W,2 (buy pack of 5),₹2.36,https://www.electronicscomp.com/4.7k-ohm-resistance-1-4-watt
-Kailh Choc Hotswap Sockets,85 (buy pack of 100),₹4612.44,https://nilgiristores.in/product/100pieces-kailh-hot-swap-socket-for-low-profile-1350-chocolate-switches/
-Mechanical Keyboard Switches,1 pack (100 pcs),₹1000,https://www.amazon.in/NIHUIFDPY-Mechanical-Replacement-Dustproof-Keyswitches/dp/B0H4H4HHZW/
-ZORBES 130-Key Keycap Set,1 pack,₹1000,https://www.amazon.in/ZORBES-130-Key-Topographic-Mechanical-Keyboard/dp/B0GZMBPHYB/
-MCP23017 DIP-28 I/O Expander,1,₹265.00,https://www.chipmart.in/product/mcp23017-16-bit-input-output-expander-with-i2c-interface-ic-dip-28-package/
-Seeed XIAO nRF52840,1,₹1149.00,https://findmychips.com/part/seeed-studio-xiao-nrf52840-ble-025947
-PCB Fabrication (JLCPCB),1,US$30,https://jlcpcb.com
-FINAL TOTAL,,₹8895.09 + US$30,
+Name,Quantity,Price (USD),URL
+Raspberry Pi Pico,1,$4.48,https://www.dnatechindia.com/raspberry-pi-rpi-pico-buy-india.html
+100nF Ceramic Disc Capacitor,3,$0.01,https://store.electrobot.co.in/product/104-pf
+10uF 50V Ceramic Capacitor,1,$1.44,https://www.digikey.in/en/products/detail/tdk/FG26X5R1H106KRT06/5812039
+1N4148 DO-35 Diodes,84 (buy 100),$0.74,https://tufonlinestore.com/product/1n4148-diode-10-pieces-pack/
+SS34 SMA Schottky Diodes,2,$0.03,https://bafnadevices.com/product/ss34-sma-40v-3a-schottky-diode-smd-package-do-214ac/
+1x14 2.54mm Male Pin Header,1,$0.32,https://evelta.com/1x14-pin-2-54mm-pitch-male-square-pin/
+JST PH 2-Pin Right Angle Connector,1,$0.17,https://www.lioncircuits.com/parts/S2B-PH-K-S
+4-Pin Boost Converter Header,1 pack (5 pcs),$0.73,https://robu.in/product/4-pin-female-11mm-tall-stackable-header-connector-for-arduino-5pcs/
+USB-C Receptacle GCT USB4105,1,$1.03,https://www.lioncircuits.com/parts/usb4105-gf-a
+5.1k Resistors 1/4W,2 (buy pack of 5),$0.02,https://www.electronicscomp.com/5.1k-ohm-resistance
+10k Resistors 1/4W,2 (buy pack of 10),$0.16,https://www.theengineerstore.in/products/10k-ohm-resistor-1-4-watt-pack-of-10pcs
+4.7k Resistors 1/4W,2 (buy pack of 5),$0.02,https://www.electronicscomp.com/4.7k-ohm-resistance-1-4-watt
+Kailh Choc Hotswap Sockets,85 (buy pack of 100),$48.60,https://nilgiristores.in/product/100pieces-kailh-hot-swap-socket-for-low-profile-1350-chocolate-switches/
+Mechanical Keyboard Switches,1 pack (100 pcs),$10.54,https://www.amazon.in/NIHUIFDPY-Mechanical-Replacement-Dustproof-Keyswitches/dp/B0H4H4HHZW/
+ZORBES 130-Key Keycap Set,1 pack,$10.54,https://www.amazon.in/ZORBES-130-Key-Topographic-Mechanical-Keyboard/dp/B0GZMBPHYB/
+MCP23017 DIP-28 I/O Expander,1,$2.79,https://www.chipmart.in/product/mcp23017-16-bit-input-output-expander-with-i2c-interface-ic-dip-28-package/
+Seeed XIAO nRF52840,1,$12.11,https://findmychips.com/part/seeed-studio-xiao-nrf52840-ble-025947
+PCB Fabrication (JLCPCB),1,$30.00,https://jlcpcb.com
+FINAL TOTAL,,$123.72,
