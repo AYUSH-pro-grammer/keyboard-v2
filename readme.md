@@ -12,6 +12,36 @@ I wanted to build my own mechanical keyboard. This has allowed me to have a go a
 
 I wanted to design my own PCB to get a full understanding of everything involved from the schematic to building it.
 
+
+
+## Images
+
+### 3D Keyboard Design
+
+![Final keyboard design](images/3d_final_withcase.png)
+
+![Keyboard design alternate view](images/3d_final_withcase.png_2.png)
+
+### PCB Layout
+
+![PCB front view](images/pcb_3d_front.png)
+
+![PCB back view](images/pcb_3d_back.png)
+
+![PCB routing](images/pcb_route.png)
+
+### Circuit Schematic
+
+![Keyboard schematic 1](images/schamtic_1.png)
+
+![Keyboard schematic 2](images/shcamtic_2.png)
+
+
+## Keyboard Matrix Testing
+
+I created an Arduino test sketch for the Raspberry Pi Pico and MCP23017 to scan the full 85-key keyboard matrix. It detects key presses and releases and displays the assigned key names in the Serial Monitor at 115200 baud. The keymap can be edited to match the physical keyboard layout.
+
+
 ## How it was built
 
 The keyboard is built around a custom designed PCB. The main controller is the Seeed XIAO nRF52840. There is also an MCP23017 I/O expander.
